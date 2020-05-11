@@ -1,0 +1,32 @@
+body {
+    background-image:url('https://img.freepik.com/fotos-gratis/fundo-com-textura-de-grao-ilustracao-de-quarto-de-estudio-tamanho-4k_107708-41.jpg?size=626&ext=jpg');
+    background-size: auto 100vh;
+    font-family:arial;
+  } 
+  
+  .menu ul {
+    display: flex;
+   justify-content: space-around; 
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: white;
+    text-align: center;
+  }
